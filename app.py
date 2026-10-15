@@ -34,7 +34,7 @@ def home():
             <h2>Experiment 5: CI/CD with Jenkins</h2>
             <p>Flask application deployed using Docker on AWS EC2.</p>
             <p>Status: Application is running successfully!</p>
-            <p>Version: 1</p>
+            <p>Version: 2</p>
         </div>
     </body>
     </html>
